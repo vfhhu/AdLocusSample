@@ -15,7 +15,7 @@
 
 到 firebase 註冊登入 gmail 帳號
 
-![avatar][step1-1]
+![image](https://github.com/vfhhu/AdLocusSample/blob/master/images/1545363464226.jpg)
 
 <br>
 
