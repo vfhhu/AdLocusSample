@@ -43,7 +43,7 @@
 
 <br>
 
-![image](https://github.com/vfhhu/AdLocusSample/blob/master/images/05.jpg)
+![image](https://github.com/vfhhu/AdLocusSample/blob/master/images/05.png)
 
 <br>
 
@@ -53,7 +53,7 @@
 
 <br>
 
-![image](https://github.com/vfhhu/AdLocusSample/blob/master/images/06.jpg)
+![image](https://github.com/vfhhu/AdLocusSample/blob/master/images/06.png)
 
 <br>
 
