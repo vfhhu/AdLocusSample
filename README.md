@@ -15,8 +15,7 @@
 
 到 firebase 註冊登入 gmail 帳號
 
-
-![avatar][step1-1]
+![step1-1](https://imgur.com/a/dUqaWQX)
 
 <br>
 
