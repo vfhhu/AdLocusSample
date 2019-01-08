@@ -45,11 +45,13 @@ public class MainActivity extends AppCompatActivity {
                     // permission was granted, yay! Do the
                     // contacts-related task you need to do.
                     String token = FirebaseInstanceId.getInstance().getToken();
+                    Log.d(TAG,"FCM token:"+token);
                     AdLocus.getInstance(this)
                             .checkUserStatement(!TextUtils.isEmpty(token) ? token : "",
                                     getString(R.string.fcm_app_key), getPackageName(), getString(R.string.app_key));
                 } else {
                     String token = FirebaseInstanceId.getInstance().getToken();
+                    Log.d(TAG,"FCM token:"+token);
                     AdLocus.getInstance(this)
                             .checkUserStatement(!TextUtils.isEmpty(token) ? token : "",
                                     getString(R.string.fcm_app_key), getPackageName(), getString(R.string.app_key));
